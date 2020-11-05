@@ -1,2 +1,4 @@
 modules/
+node_modules/
+package.json
 vs_code_ws.code-workspace
